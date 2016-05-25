@@ -1,5 +1,2 @@
-<<<<<<< HEAD
+HEAD
 Hello world£¡wqewq245Í¬ÈÊÌÃ
-=======
-Hello worldwqewqewqewqqeqwwwwqsewzxw
->>>>>>> 8586906d8fcb4ccbcdaacf2417d8e75ef41d18da
